@@ -5,8 +5,6 @@
 
 - 📫 Entre em contato por: **meirafelipe.macedo@gmail.com**
 
-- 📄 Conheça mais sobre mim em [https://www.linkedin.com/in/felipe-meira-macedo-08623b22b/](https://www.linkedin.com/in/felipe-meira-macedo-08623b22b/)
-
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-meira-macedo-08623b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe meira macedo" height="30" width="40" /></a>
