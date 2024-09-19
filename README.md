@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Felipe Meira</h1>
 <h3 align="center">Estudante de Sistemas da Informação, apaixonado por tecnologia, video games e música.</h3>
 
-- 🌱 No momento aprendendo sobre **GDScript / Python**
+- 🌱 No momento aprendendo sobre **Python e C**
 
 - 📫 Entre em contato por: **meirafelipe.macedo@gmail.com**
 
